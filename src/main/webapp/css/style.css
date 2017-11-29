@@ -1,0 +1,23 @@
+.banner-topo{
+    background-image: url("../imagens/usina-arte-13.png");
+    height: 508px;
+    width: 100%;
+}
+h1{
+    color: #fff;
+    font-family: 'Spectral SC', serif;
+    padding-top: 230px;
+    font-size: 64px!important;
+}
+.img-content{
+    margin-top: auto;
+}
+.stilo-top{
+    margin-top: 10%;
+}
+.form-control{
+    border-radius: 20px!important;
+}
+.form-group{
+    font-family: 'Spectral SC', serif;
+}
